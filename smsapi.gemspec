@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Smsapi::VERSION
   spec.authors       = ["Michael Oblak"]
   spec.email         = ["oblak.michal@gmail.com"]
-  spec.description   = "SMSAPI.pl ruby wrapper"
+  spec.description   = "smsapi.pl ruby wrapper"
 
-  spec.summary       = "SMSAPI.pl ruby wrapper"
+  spec.summary       = "smsapi.pl ruby wrapper"
   spec.homepage      = "https://github.com/jb41/smsapi-ruby"
   spec.license       = "MIT"
 
