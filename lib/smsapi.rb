@@ -1,7 +1,7 @@
 require 'smsapi/version'
 require 'net/http'
 
-module SMSAPI
+module Smsapi
 
   class Client
     def initialize(username, password)

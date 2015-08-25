@@ -5,7 +5,7 @@ require 'smsapi/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "smsapi"
-  spec.version       = SMSAPI::VERSION
+  spec.version       = Smsapi::VERSION
   spec.authors       = ["Michael Oblak"]
   spec.email         = ["oblak.michal@gmail.com"]
   spec.description   = "SMSAPI.pl ruby wrapper"
